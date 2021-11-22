@@ -5,6 +5,7 @@ To jest testowe repozytorium
 - trzy
 
 | raz | dwa | trzy |
+| ----| --- | ---- |
 | 1   | 2   | 3    |
 | 4   | 5   | 6    |
 
